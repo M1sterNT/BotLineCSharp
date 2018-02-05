@@ -1,0 +1,9 @@
+c:\users\misternt\documents\visual studio 2017\Projects\NotiLine By Wandee\NotiLine By Wandee\bin\Debug\NotiLine By Wandee.exe.config
+c:\users\misternt\documents\visual studio 2017\Projects\NotiLine By Wandee\NotiLine By Wandee\bin\Debug\NotiLine By Wandee.exe
+c:\users\misternt\documents\visual studio 2017\Projects\NotiLine By Wandee\NotiLine By Wandee\bin\Debug\NotiLine By Wandee.pdb
+c:\users\misternt\documents\visual studio 2017\Projects\NotiLine By Wandee\NotiLine By Wandee\obj\Debug\NotiLine By Wandee.csprojResolveAssemblyReference.cache
+c:\users\misternt\documents\visual studio 2017\Projects\NotiLine By Wandee\NotiLine By Wandee\obj\Debug\NotiLine_By_Wandee.Form1.resources
+c:\users\misternt\documents\visual studio 2017\Projects\NotiLine By Wandee\NotiLine By Wandee\obj\Debug\NotiLine_By_Wandee.Properties.Resources.resources
+c:\users\misternt\documents\visual studio 2017\Projects\NotiLine By Wandee\NotiLine By Wandee\obj\Debug\NotiLine By Wandee.csproj.GenerateResource.Cache
+c:\users\misternt\documents\visual studio 2017\Projects\NotiLine By Wandee\NotiLine By Wandee\obj\Debug\NotiLine By Wandee.exe
+c:\users\misternt\documents\visual studio 2017\Projects\NotiLine By Wandee\NotiLine By Wandee\obj\Debug\NotiLine By Wandee.pdb
