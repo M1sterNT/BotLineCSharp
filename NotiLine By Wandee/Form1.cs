@@ -43,7 +43,7 @@ namespace NotiLine_By_Wandee
                 var response = (HttpWebResponse)request.GetResponse();
                 var responseString = new StreamReader(response.GetResponseStream()).ReadToEnd();
 
-                MessageBox.Show("ส่งข้อความสำเร็จแล้ว");
+                MessageBox.Show("ส่งข้อความสำเร็จแล้ว<3");
 
             }
             catch (Exception ex)
